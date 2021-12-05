@@ -1,4 +1,4 @@
-# Data-Science-Project-Flight-Price-Predicion-ML-
+# Data-Science-Project-Flight-Price-Prediction-ML-
 
 
 **Problem Statement**
